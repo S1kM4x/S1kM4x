@@ -4,10 +4,10 @@
 
 I'm a Machine Learning enthusiast with 6+ years of hands-on problem-solving experience, transitioning from technical roles into the field of AI and data-driven solutions. Currently in continuous formation in Machine Learning, focusing on building predictive models and deploying them to solve real-world challenges.
 
-📍 **Location**: Québec, Canada  
-💼 **Background**: Electrical Technician → Refrigeration Technician → Machine Learning
-🎯 **Status**: Open to work in roles related to Machine Learning, Data Science, or AI applications 
-📊 **Focus**: Machine Learning, Data Visualization, Statistical Analysis
+- 📍 **Location**: Québec, Canada  
+- 💼 **Background**: Electrical Technician → Refrigeration Technician → Machine Learning
+- 🎯 **Status**: Open to work in roles related to Machine Learning, Data Science, or AI applications 
+- 📊 **Focus**: Machine Learning, Data Visualization, Statistical Analysis
 
 ## 💻 Tech Stack
 
