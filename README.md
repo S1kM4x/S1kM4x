@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-I'm a **Data Scientist** with 6+ years of hands-on problem-solving experience, successfully transitioning from technical roles to data science. Recently completed the **IBM Data Science Professional Certificate** (11/11 courses) and ready to apply my analytical mindset to extract insights from complex data.
+I'm a Machine Learning enthusiast with 6+ years of hands-on problem-solving experience, transitioning from technical roles into the field of AI and data-driven solutions. Currently in continuous formation in Machine Learning, focusing on building predictive models and deploying them to solve real-world challenges.
 
 📍 **Location**: Québec, Canada  
-💼 **Background**: Electrical Technician → Refrigeration Technician → Data Scientist  
-🎯 **Status**: Open to work as Data Scientist/Data Analyst  
+💼 **Background**: Electrical Technician → Refrigeration Technician → Machine Learning
+🎯 **Status**: Open to work in roles related to Machine Learning, Data Science, or AI applications 
 📊 **Focus**: Machine Learning, Data Visualization, Statistical Analysis
 
 ## 💻 Tech Stack
@@ -30,21 +30,10 @@ I'm a **Data Scientist** with 6+ years of hands-on problem-solving experience, s
 
 ## 🎓 Certifications & Education
 
-### IBM Data Science Professional Certificate ✅
-**Completed: August 2025** | [View Full Credential](https://www.coursera.org/account/accomplishments/professional-cert/518BPTVWH3N3)
+### IBM Data Science Professional Certificate ✅  
+Completed: August 2025 | [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/518BPTVWH3N3)  
 
-11 comprehensive courses covering:
-- ✅ What is Data Science?
-- ✅ Tools for Data Science  
-- ✅ Data Science Methodology
-- ✅ Python for Data Science, AI & Development
-- ✅ Python Project for Data Science
-- ✅ Databases and SQL for Data Science with Python
-- ✅ Data Analysis with Python
-- ✅ Data Visualization with Python
-- ✅ Machine Learning with Python
-- ✅ Applied Data Science Capstone
-- ✅ Generative AI: Elevate Your Data Science Career
+Hands-on foundation in Data Science with a strong focus on Machine Learning and AI applications.  
 
 ### Additional Certifications
 - **IBM Data Scientist** - IBM (2025)
@@ -102,9 +91,11 @@ I'm actively looking for Data Scientist/Analyst positions and always open to dis
 
 <div align="center">
   
-💡 *"From circuits to algorithms, from refrigeration systems to neural networks - bringing 6+ years of analytical problem-solving to the world of data science"*
+💡 *"From circuits to algorithms, from refrigeration systems to machine learning models — bringing 6+ years of analytical problem-solving into AI-driven solutions."*
 
-⭐ **Available immediately for Data Science opportunities** ⭐
+⭐ Available for opportunities in Machine Learning & Data Science ⭐
+⭐ Open to Machine Learning and AI-focused roles ⭐
+⭐ Actively seeking opportunities to apply Machine Learning ⭐
 
 ![Profile Views](https://komarev.com/ghpvc/?username=S1kM4x&color=blue&style=flat-square)
 
